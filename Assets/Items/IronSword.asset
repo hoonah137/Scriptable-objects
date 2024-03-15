@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4d7687f2a96931429478b3d7ff75e81, type: 3}
+  m_Name: IronSword
+  m_EditorClassIdentifier: 
+  itemName: Iron sword
+  itemDescription: Built from the molted iron from the gnome mines. The first thing
+    that comes to your mind is "It looks so fucking heavy"
+  itemPrice: 250
+  itemType: 0
+  itemSprite: {fileID: 21300000, guid: 7bc5002a18a2c294baa87c795ea26f88, type: 3}
